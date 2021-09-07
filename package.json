@@ -1,0 +1,8 @@
+{
+  "name": "animo",
+  "version": "1.0.0",
+  "description": "personal app",
+  "main": "index.js",
+  "author": "Luis Esteban Ramírez <leramirezca@gmail.com>",
+  "license": "MIT"
+}
