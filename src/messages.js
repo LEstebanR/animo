@@ -9,7 +9,12 @@ let messagges = [
   'Vivís una gran época, todo está en Internet',
   '¡Dale!',
   'Una línea de código a la vez',
-  'Primero lo primero'
+  'Primero lo primero',
+  'Elije el riesgo',
+  'Elije ser valiente',
+  'Elíjete a ti',
+  'Siempre apuesta por ti',
+  'Sé tu fan #1'
 ];
 
 export default messagges;
