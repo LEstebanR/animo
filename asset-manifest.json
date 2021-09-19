@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/animo/static/css/main.32b22906.chunk.css",
-    "main.js": "/animo/static/js/main.6a7eeeb6.chunk.js",
-    "main.js.map": "/animo/static/js/main.6a7eeeb6.chunk.js.map",
+    "main.js": "/animo/static/js/main.1df7afe9.chunk.js",
+    "main.js.map": "/animo/static/js/main.1df7afe9.chunk.js.map",
     "runtime-main.js": "/animo/static/js/runtime-main.49e47195.js",
     "runtime-main.js.map": "/animo/static/js/runtime-main.49e47195.js.map",
     "static/js/2.4dd08a9d.chunk.js": "/animo/static/js/2.4dd08a9d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.49e47195.js",
     "static/js/2.4dd08a9d.chunk.js",
     "static/css/main.32b22906.chunk.css",
-    "static/js/main.6a7eeeb6.chunk.js"
+    "static/js/main.1df7afe9.chunk.js"
   ]
 }
